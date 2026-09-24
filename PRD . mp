@@ -1,0 +1,77 @@
+# PRD – Second-Hand Goods Exchange Platform
+
+### 1. **Project Overview**
+
+The **Second-Hand Goods Exchange Platform** is a web-based application that allows users to **buy, sell, exchange, and donate used products**. The platform connects buyers and sellers in one place and promotes affordable and sustainable reuse of products.
+
+### 2. **Problem Statement**
+
+People often have unused products that are still useful, while others search for affordable alternatives to new products. There is a need for a simple platform where users can safely list, discover, and exchange second-hand goods.
+
+### 3. **Objectives**
+
+* Provide an easy platform for buying and selling used goods.
+* Enable direct product exchange between users.
+* Help users find affordable products.
+* Reduce unnecessary waste by encouraging reuse.
+* Provide secure communication between buyers and sellers.
+
+### 4. **Target Users**
+
+* **Students** – Exchange books, electronics, and study materials.
+* **Individuals** – Sell unused household products.
+* **Buyers** – Find affordable second-hand goods.
+* **Sellers** – Earn money from unwanted items.
+* **Donors** – Give useful products to others.
+
+### 5. **User Registration & Authentication**
+
+Users can create accounts using their name, email, phone number, and password. Login and logout functionality will be provided. Authentication ensures that only registered users can post products, communicate, and make exchange requests.
+
+### 6. **Product Listing Management**
+
+Users can add products with:
+
+* Product name
+* Category
+* Description
+* Price
+* Product condition
+* Location
+* Product images
+* Exchange preference
+
+Users can also edit or delete their own listings.
+
+### 7. **Search & Product Discovery**
+
+Users can search for products using keywords and apply filters such as:
+
+* Category
+* Price range
+* Condition
+* Location
+* Product type
+
+Each product page displays images, seller details, description, price, and condition.
+
+### 8. **Buying & Exchange System**
+
+Users can either purchase a listed product or send an **exchange request**. For an exchange, users can select one of their own products and propose it to the seller. The seller can **accept, reject, or negotiate** the request.
+
+### 9. **Chat, Ratings & Reviews**
+
+A built-in chat system allows buyers and sellers to communicate. After completing a transaction or exchange, users can provide ratings and reviews. This helps create transparency and trust within the platform.
+
+### 10. **Admin Dashboard & Future Scope**
+
+The administrator can:
+
+* Manage users
+* Approve/remove listings
+* Handle reported products
+* Monitor transactions
+* Manage categories
+* Block suspicious accounts
+
+**Future Scope:** Mobile application, online payment integration, AI-based product recommendations, location-based matching, delivery tracking, and image-based product identification.
